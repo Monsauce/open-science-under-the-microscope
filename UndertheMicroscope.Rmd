@@ -104,18 +104,10 @@ irisdata<- gs_read(irisdata)
 For this exercise I want you to use the code to make a new bar plot with the additional data. 
 
 #Publication
-The publication stage affords you perhaps the most options to work open. To make your publication open you can:
-
-* Publish in an open access journal 
-* Publish in a hybrid journal and pay the APC
-* Publish in traditional journal but submit a preprint to a preprint server (i.e. biorxiv.org); you can check journal policies at this repository: www.sherpa.ac.uk/romeo/index.php
-
-Preprints are awesome because not only are they citable you can also solicit feedback and integrate them into your manuscript before you submit them to a traditional publisher. Organizations like PREreview.org will even organize live journal clubs for your preprint. 
-
 But how can we make all our data, code and manuscript all reproducible and open? We'll finish up today by talking about two options. 
 
 ##1. Zenodo
-Zenodo is a data and code repository where you can upload your data and code to make it available to openly. It will issue the data and/or code a DOI which is then citable! You can have the your R code seperately and then just write a line of code to import the data locally once it is downloaded from Zenodo. The manuscript iteslef would still need to uploaded as a preprint or a an open publication.  
+Zenodo will issue the data and/or code a DOI which is then citable! You can have the your R code seperately and then just write a line of code to import the data locally once it is downloaded from Zenodo. The manuscript iteslef would still need to uploaded as a preprint or a an open publication.  
 
 **But today I want to show you a cool and totally reproducible option**
 
